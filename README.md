@@ -41,7 +41,7 @@ Instructions:
 2. Unzip everything into one folder
 3. Run HeadUp.exe
 
-### Conclusion
+#### Conclusion
 
 The new software based posture sensor is reliable and has none of its predecessor’s flaws. You can easily run the program in the background while working on the computer and it will remind you if you are slouching into the chair or getting too close to the screen.
 
