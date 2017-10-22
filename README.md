@@ -1,5 +1,5 @@
 # HeadUp - A Webcam Posture Monitor
-![Screenshot](./asssets/hu2.png)
+![Screenshot](./assets/hu2.png)
 
 Since receiving a lot of feedback about my posture sensor solution I was thinking about how to improve it. Despite its functionality there are a few problems like the continuous clicking of the ultrasonic sensor and the way it is installed on the chair’s rest.
 
@@ -34,7 +34,6 @@ Finally Processing can export everything into a standalone application.
 
 If you have a computer with a webcam you can give “HeadUp” a try:
 
-:---:
 https://www.dropbox.com/sh/j9ezha6dx37jlla/X0ZRXMsmrJ/HeadUp.zip
 
 Instructions:
